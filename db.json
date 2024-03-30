@@ -1,0 +1,76 @@
+{
+    "Description":[
+        {
+            "id":1,
+            "name":"Sacramento River Cats"
+        },
+        {
+            "id":2,
+            "name":"Las Vegas Aviators"
+        },
+        {
+            "id":3,
+            "name":"new jersey devils"
+        },
+        {
+            "id":4,
+            "name":"Las Vegas Aviators"
+        }
+    ],
+    "Totalevent":[
+        {
+            "Eventid":1,
+            "event":"48 Events"
+        },
+        {
+            "Eventid":1,
+            "event":"28 Events"
+        },
+        {
+            "Eventid":1,
+            "event":"15 Events"
+        },
+        {
+            "Eventid":1,
+            "event":"28 Events"
+        }
+    ],
+    "Sports":[
+        {
+            "sportid":1,
+            "Sport":"Baseball"
+        },
+        {
+            "sportid":2,
+            "Sport":"Baseball"
+        },
+        {
+            "sportid":3,
+            "Sport":"IceHockey"
+        },
+        {
+            "sportid":4,
+            "Sport":"Baseball"
+        }
+    ],
+    "Photos":[
+        {
+            "id":1,
+            "url":"assests/"
+        },
+        {
+            "id":2,
+            "url":""
+        },
+        {
+            "id":3,
+            "url":""
+        },
+        {
+            "id":4,
+            "url":""
+        },
+    ]
+
+
+}

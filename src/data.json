@@ -1,0 +1,66 @@
+{
+    "user":[
+        {
+            "id":1,
+            "name":"Sacramento River Cats",
+            "event":"48 Events",
+            "Sport":"Baseball",
+            "url":"assests/player1.svg"
+        },
+        {
+            "id":2,
+            "name":"Las Vegas Aviators",
+            "event":"28 Events",
+            "Sport":"Baseball",
+            "url":"assests/player2.svg"
+        },
+        {
+            "id":3,
+            "name":"New jersey devils",
+            "event":"15 Events",
+            "Sport":"IceHockey",
+            "url":"assests/player3.svg"
+        },
+        {
+            "id":4,
+            "name":"Las Vegas Aviators",
+            "event":"28 Events",
+            "Sport":"Baseball",
+            "url":"assests/player2.svg"
+        }
+       
+    ],
+    "collection":[
+        {
+            "id":1,
+            "name":"Las Vegas Aviators",
+            "Date": "OCT 15",
+            "Day":"SUN",
+            "Time":"4:30 PM",
+            "Place":"Las Vegas Ballpark, Las Vegas, Nevada",
+            "btn":"Take Flight Collection",
+            "poster":"assests/Ticket_Mockup 1.svg"
+            
+        },
+        {
+            "id":2,
+            "name":"Sacramento River Cats",
+            "Date": "OCT 15",
+            "Day":"SUN",
+            "Time":"4:30 PM",
+            "Place":"Sutter Health Park, Sacramento, California",
+            "btn":"Orange Collection",
+            "poster":"assests/ticket_mockup 2.svg"
+        },
+        {
+            "id":3,
+            "name":"Las Vegas Aviators",
+            "Date": "OCT 15",
+            "Day":"SUN",
+            "Time":"4:30 PM",
+            "Place":"Las Vegas Ballpark, Las Vegas, Nevada",
+            "btn":"Take Flight Collection",
+            "poster":"assests/Ticket_Mockup 1.svg"
+        }
+    ]
+}
