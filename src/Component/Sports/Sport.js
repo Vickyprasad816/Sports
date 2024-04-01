@@ -59,7 +59,7 @@ function Sport() {
         See More
       </button>
       </div>
-      <div className="collection dark:bg-gradient py-5 dark:text-white ml-12 mr-12">
+      <div className="collection dark:bg-gradient py-5 dark:text-white ml-12 mr-12 ">
       <div className="spotlight mt-auto grid place-items-center dark:bg-gradient">
         <h1 className='font-poppins text-6xl text-center'><b>Collection Spotlight</b></h1>
         <p className='font-inter text mt-5 text-center'>Discover extraordinary moments with our Spotlight Collection metatickets—exclusive access to premium events for an unforgettable<br /> experience. Grab yours today!</p>
